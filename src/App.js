@@ -1,23 +1,21 @@
-import logo from './logo.svg';
 import './App.css';
+import Header from './components/Header';
+import Card from './components/Card';
+import Footer from './components/Footer';
+import userInfos from './userInfos.json';
 
 function App() {
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+    <div>
+      <Header />
+      <div className='container my-3'>
+        <div className="row row-cols-4 gap-3 justify-content-center">
+          {userInfos.map((user) => (
+            <Card firstName={user.name.first} lastName={user.name.last} image={user.picture.large} city={user.location.city} state={user.location.state} country={user.location.country} tel={user.phone} age={user.dob.age} email={user.email} />
+          ))}
+        </div>
+      </div>
+      <Footer />
     </div>
   );
 }

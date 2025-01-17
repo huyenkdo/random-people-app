@@ -1,0 +1,242 @@
+[
+  {
+      "id": {
+          "name": "TFN",
+          "value": "385472524"
+      },
+      "gender": "female",
+      "name": {
+          "first": "Vivan",
+          "last": "Lee"
+      },
+      "location": {
+          "city": "Cairns",
+          "state": "New South Wales",
+          "country": "Australia"
+      },
+      "email": "vivan.lee@example.com",
+      "dob": {
+          "age": 25
+      },
+      "phone": "03-6494-9952",
+      "picture": {
+          "large": "https://randomuser.me/api/portraits/women/73.jpg"
+      }
+  },
+  {
+      "id": {
+          "name": "SSN",
+          "value": "523-19-7381"
+      },
+      "gender": "male",
+      "name": {
+          "first": "James",
+          "last": "Smith"
+      },
+      "location": {
+          "city": "New York",
+          "state": "New York",
+          "country": "United States"
+      },
+      "email": "james.smith@example.com",
+      "dob": {
+          "age": 30
+      },
+      "phone": "212-555-1234",
+      "picture": {
+          "large": "https://randomuser.me/api/portraits/men/81.jpg"
+      }
+  },
+  {
+      "id": {
+          "name": "TFN",
+          "value": "736482145"
+      },
+      "gender": "female",
+      "name": {
+          "first": "Amara",
+          "last": "Jones"
+      },
+      "location": {
+          "city": "Melbourne",
+          "state": "Victoria",
+          "country": "Australia"
+      },
+      "email": "amara.jones@example.com",
+      "dob": {
+          "age": 27
+      },
+      "phone": "03-9345-6789",
+      "picture": {
+          "large": "https://randomuser.me/api/portraits/women/65.jpg"
+      }
+  },
+  {
+      "id": {
+          "name": "SSN",
+          "value": "874-32-7592"
+      },
+      "gender": "male",
+      "name": {
+          "first": "Liam",
+          "last": "Brown"
+      },
+      "location": {
+          "city": "Chicago",
+          "state": "Illinois",
+          "country": "United States"
+      },
+      "email": "liam.brown@example.com",
+      "dob": {
+          "age": 35
+      },
+      "phone": "312-555-9876",
+      "picture": {
+          "large": "https://randomuser.me/api/portraits/men/45.jpg"
+      }
+  },
+  {
+      "id": {
+          "name": "NINO",
+          "value": "QQ123456C"
+      },
+      "gender": "female",
+      "name": {
+          "first": "Sophia",
+          "last": "Wilson"
+      },
+      "location": {
+          "city": "London",
+          "state": "England",
+          "country": "United Kingdom"
+      },
+      "email": "sophia.wilson@example.com",
+      "dob": {
+          "age": 29
+      },
+      "phone": "020-7946-0958",
+      "picture": {
+          "large": "https://randomuser.me/api/portraits/women/10.jpg"
+      }
+  },
+  {
+      "id": {
+          "name": "SIN",
+          "value": "453228019"
+      },
+      "gender": "male",
+      "name": {
+          "first": "Noah",
+          "last": "Martin"
+      },
+      "location": {
+          "city": "Toronto",
+          "state": "Ontario",
+          "country": "Canada"
+      },
+      "email": "noah.martin@example.com",
+      "dob": {
+          "age": 33
+      },
+      "phone": "416-555-0147",
+      "picture": {
+          "large": "https://randomuser.me/api/portraits/men/33.jpg"
+      }
+  },
+  {
+      "id": {
+          "name": "TFN",
+          "value": "937526813"
+      },
+      "gender": "female",
+      "name": {
+          "first": "Emily",
+          "last": "Taylor"
+      },
+      "location": {
+          "city": "Sydney",
+          "state": "New South Wales",
+          "country": "Australia"
+      },
+      "email": "emily.taylor@example.com",
+      "dob": {
+          "age": 28
+      },
+      "phone": "02-4956-7890",
+      "picture": {
+          "large": "https://randomuser.me/api/portraits/women/15.jpg"
+      }
+  },
+  {
+      "id": {
+          "name": "DNI",
+          "value": "29374822X"
+      },
+      "gender": "male",
+      "name": {
+          "first": "Mateo",
+          "last": "Garcia"
+      },
+      "location": {
+          "city": "Madrid",
+          "state": "Madrid",
+          "country": "Spain"
+      },
+      "email": "mateo.garcia@example.com",
+      "dob": {
+          "age": 31
+      },
+      "phone": "91-234-5678",
+      "picture": {
+          "large": "https://randomuser.me/api/portraits/men/21.jpg"
+      }
+  },
+  {
+      "id": {
+          "name": "CURP",
+          "value": "GABM890412HDFRRN02"
+      },
+      "gender": "female",
+      "name": {
+          "first": "Isabella",
+          "last": "Lopez"
+      },
+      "location": {
+          "city": "Mexico City",
+          "state": "Mexico City",
+          "country": "Mexico"
+      },
+      "email": "isabella.lopez@example.com",
+      "dob": {
+          "age": 26
+      },
+      "phone": "55-1234-5678",
+      "picture": {
+          "large": "https://randomuser.me/api/portraits/women/9.jpg"
+      }
+  },
+  {
+      "id": {
+          "name": "SSN",
+          "value": "543-98-3721"
+      },
+      "gender": "male",
+      "name": {
+          "first": "Ethan",
+          "last": "Davis"
+      },
+      "location": {
+          "city": "Los Angeles",
+          "state": "California",
+          "country": "United States"
+      },
+      "email": "ethan.davis@example.com",
+      "dob": {
+          "age": 32
+      },
+      "phone": "323-555-7890",
+      "picture": {
+          "large": "https://randomuser.me/api/portraits/men/77.jpg"
+      }
+  }
+]
